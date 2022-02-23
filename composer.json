@@ -1,21 +1,11 @@
 {
-    "name": "alexusmai/laravel-file-manager",
+    "name": "mostafasadeghi/laravel-file-media",
     "description": "File manager for Laravel",
     "keywords": [
         "laravel",
         "file",
         "manager"
     ],
-    "authors": [
-        {
-            "name": "Aleksandr Manekin",
-            "email": "alexusmai@gmail.com",
-            "role": "Developer"
-        }
-    ],
-    "homepage": "https://github.com/alexusami/laravel-file-manager",
-    "license": "MIT",
-    "minimum-stability": "dev",
     "require": {
         "php": ">=7.1.0",
         "ext-zip": "*",
